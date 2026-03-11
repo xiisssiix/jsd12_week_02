@@ -1,17 +1,13 @@
-# Problem Statement
-
-## Overview
-[Add a brief description of the e-commerce problem you're solving]
-
-## Requirements
-- [List key functional requirements]
-- [Add more requirements as needed]
-
-## Constraints
-- [Specify any technical or business constraints]
-
-## Success Criteria
-- [Define how success will be measured]
-
-## Next Steps
-- [Outline initial implementation tasks]
+## Problem Statement
+ลูกค้าไม่รู้จักร้าน
+คนในพื้นที่มีจำนวนประชากรน้อย
+ลูกค้าต้องการสินค้าที่เหมาะกับภาพลักษณ์ในการทำงาน
+เน้นสินค้าที่มีน้ำหนักเบา ขนส่งง่าย
+เป็นอุปกรณ์ที่เน้นการพกพาและใช้กับมือถือ
+## Solution(s)
+เปิดเว็บขายออนไลน์
+ยิงแอด
+สินค้ามีแค่ 2 สี คือขาวกับดำ
+หูฟังบลูทูธ สายชาร์จ พาวเวอร์แบงค์ 
+## My Ecommerce project
+หยินหยาง แก๊ดเจ็ท จำหน่ายอุปกรณ์ไอทีที่ใช้กับมือถือ
